@@ -1,1 +1,1 @@
-# DSI_project_1
+# The first part of the General Assembly course is to demonstrate your basic coding skills. This document demonstrates the coding level I was at when I joined the Data Science Immersive. With the knowledge of the extensive python libraries, this project is quite low level coding, but it did teach me the coding basics. 
